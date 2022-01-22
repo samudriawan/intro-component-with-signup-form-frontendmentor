@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-[Solution URL]() |
-[Live Site URL]() |
+[Solution URL](https://www.frontendmentor.io/solutions/responsive-mobilefirst-with-sass-and-flexbox-yjFv8h2tw) |
+[Live Site URL](https://samudriawan.github.io/intro-component-with-signup-form-frontendmentor/) |
 [Challenge](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1)
 
 ## My process
